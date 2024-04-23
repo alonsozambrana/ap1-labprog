@@ -1,0 +1,14 @@
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\Ap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\Ap1.AssemblyInfoInputs.cache
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\Ap1.AssemblyInfo.cs
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\Ap1.csproj.CoreCompileInputs.cache
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\bin\Debug\net8.0\Ap1.exe
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\bin\Debug\net8.0\Ap1.deps.json
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\bin\Debug\net8.0\Ap1.runtimeconfig.json
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\bin\Debug\net8.0\Ap1.dll
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\bin\Debug\net8.0\Ap1.pdb
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\Ap1.dll
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\refint\Ap1.dll
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\Ap1.pdb
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\Ap1.genruntimeconfig.cache
+D:\Alonso Zambrana\FACULDADE\ULBRA 2024 3 SEMESTRE\Lab de Programação\Ap1\obj\Debug\net8.0\ref\Ap1.dll
